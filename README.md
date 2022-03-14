@@ -7,3 +7,5 @@
 - Se le dieron unos toques adicionales mediante CSS
 - La maquetacion en su totalidad fue hecha con bootstrap
 - Para el posicionamiento de los diferentes contenedores y contenido use flex-box
+
+Nota: Para ver la pagina ingresar a la rama gh-pages y darle click al enlace.
